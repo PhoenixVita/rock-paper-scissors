@@ -28,9 +28,9 @@ elif (p1 == p2):
 
 print('')
 if win == 1:
-    print('Player one wins!')
+    print('You win!')
 elif win == 0:
-    print('Player two wins!')
+    print('You lost!')
 else:
     print('Tie!')
 print('')
